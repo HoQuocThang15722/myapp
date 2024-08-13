@@ -1,4 +1,5 @@
 ![alt text](image.png)
+
 ƒ (Dynamic Server-Side Rendered - SSR) trang động:
 
 Trang sẽ được "render" động trên máy chủ mỗi khi có yêu cầu từ người dùng.
