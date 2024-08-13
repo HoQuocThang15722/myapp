@@ -7,7 +7,7 @@ Mỗi lần người dùng yêu cầu trang này, nó sẽ được "render" l�
 
 ![alt text](image-1.png)
 
-○ (Static HTML) trang :
+○ (Static HTML) trang tĩnh:
 Trang đã được render sẵn thành một file HTML tĩnh trong quá trình build.
 Những trang này không có bất kỳ dữ liệu động nào từ máy chủ khi được yêu cầu. Chúng có thể được phân phối trực tiếp từ CDN mà không cần xử lý trên máy chủ.
 
