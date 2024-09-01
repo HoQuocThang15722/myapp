@@ -32,7 +32,7 @@ export default async function Home() {
           <AddDocumentBtn userId={clerkUser.id} email={clerkUser.emailAddresses[0].emailAddress} />
         </div>
       )}
-      <h1>halo</h1>
+      <h1>halo github-work</h1>
     </main>
   );
 }
